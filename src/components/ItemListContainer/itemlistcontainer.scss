@@ -1,0 +1,18 @@
+
+$color-caja: #FCA311;
+$texto-caja-centrado: center;
+$texto-caja-tamaño: 20px;
+$padding-caja: 20px;
+$margin-caja-left: 500px;
+$margin-caja-right: 500px;
+
+
+.item-list-container {
+    background-color: $color-caja;
+    text-align: $texto-caja-centrado;
+    font-size: $texto-caja-tamaño;
+    padding: $padding-caja;
+    margin-left: $margin-caja-left;
+    margin-right: $margin-caja-right;
+    
+}
